@@ -32,9 +32,3 @@ The model used is a **Random Forest Classifier** trained on the classic **Iris d
 
 This project was mainly created to **understand how Streamlit works** — from building the UI to deploying it online. It helped me explore the basics of creating Python web apps without needing HTML/CSS/JavaScript.
 
----
-
-## 📦 Requirements
-
-The app uses the following Python libraries:
-
